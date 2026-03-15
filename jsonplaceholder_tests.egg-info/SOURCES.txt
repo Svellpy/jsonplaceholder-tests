@@ -1,0 +1,16 @@
+pyproject.toml
+jsonplaceholder_tests.egg-info/PKG-INFO
+jsonplaceholder_tests.egg-info/SOURCES.txt
+jsonplaceholder_tests.egg-info/dependency_links.txt
+jsonplaceholder_tests.egg-info/requires.txt
+jsonplaceholder_tests.egg-info/top_level.txt
+src/clients/base_client.py
+src/clients/posts_client.py
+src/clients/user_client.py
+src/constants/__init__.py
+src/constants/urls.py
+src/entities/comment.py
+src/entities/post.py
+src/entities/user.py
+src/utils/data_generator.py
+src/utils/file_reader.py
